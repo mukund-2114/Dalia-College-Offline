@@ -1,0 +1,86 @@
+HTML:
+html, head,title,body,
+h1-h6,p,b,i,u,img,a,select,
+form,input,button,tables,
+
+CSS:
+color,background-color,
+font-size,font-family,
+width,height,margin,padding,
+
+frontend: designing
+html,css, bootstrap,javascript,reactjs,angular,
+django
+
+
+backend: functionality
+python,nodejs,dotnet,php,laravel,java
+
+
+database: data store
+mysql,mongodb, oracle, firebase
+
+library vs framework
+reactjs      angular
+
+
+static vs dynamic
+
+static:content cannot change
+html css we can only make static website
+
+dynamic: content can change
+
+3 parts
+header: navigation ,navbar
+content: sidebar
+footer
+
+reactjs: does not load
+
+spa:single page application
+api:application programming interface
+
+
+HTML (Hypertext markup language)
+
+hypertext: text within text
+markup language: normal text -> formatted text
+design structure of the website
+
+CSS( cascading style sheet): for only styling
+
+html and css can only make static website
+html will never give you error
+
+programming language:java ,python
+
+
+head section:
+	title,script, link, style, meta
+heading tag: h1-h6
+
+tag vs element
+
+paragraph
+
+br
+pre: preformatted text
+by default font-size:16px;
+
+attributes: src, href, type, alt, class,id, style
+
+block element vs  inline element
+
+list types:
+	ordered list : ol li
+	unordered list : ul
+	descriptive list: dl dt(data title)dd(data description)
+
+
+
+
+
+
+
+
