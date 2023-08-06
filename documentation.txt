@@ -79,6 +79,61 @@ list types:
 
 
 
+https://github.com/mukund-2114
+https://github.com/mukund-2114/Dalia-College-Offline\
+
+html is case insensitive
+CSS : used for styling
+
+3 types of Css
+
+2	internal: inside style tag-> head section
+3	external:
+1	inline: style attribute
+
+CSS selectors:
+1	id:    for unique styling (#) idname
+2	class: for multiple styling (.)classname
+3	tagname:
+4	universal: *
+
+	group:
+
+color
+background-color
+text-align
+text-transform
+text-decoration
+
+font-size: 16px by default
+font-weight
+font-family
+
+color name
+hex value #000000 - #ffffff
+rgb(0,0,0) )(0-255)
+
+
+display: block,inline,none
+
+width,height
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
