@@ -118,9 +118,15 @@ display: block,inline,none
 
 width,height
 
+Box Model:
+	margin: spacing outside the content
+	padding: spacing inside the content
+	border: solid, dashed, double, dotted
+	box-sizing:border-box; 
+	border-radius
 
 
-
+background-image:
 
 
 
