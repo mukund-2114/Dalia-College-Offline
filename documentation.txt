@@ -125,13 +125,29 @@ Box Model:
 	box-sizing:border-box; 
 	border-radius
 
-
 background-image:
 
+Position:
+
+relative : 
+absolute:top,left, bottom,right
+z-index: -1 +1
+overflow:hidden
 
 
+float property: left ,right
 
+clear
 
+navbar:
+hover effect
+dropdown
+position
+
+flexbox:
+flex
+
+https://flexboxfroggy.com/
 
 
 
